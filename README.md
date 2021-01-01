@@ -1,5 +1,18 @@
-# Robot Manipulator Control Example
-Copyright 2017-2019 The MathWorks, Inc.
+# Picasso the Drawing Robot: An Application of Inverse Kinematics
+
+With the recent advancement in the field of robotics, Robots have become versatile in size and form and can be programmed to do the most mundane as well as the most sophisticated and specialised tasks. 
+
+Inverse kinematics is one of the key techniques in automation and working of robots and deep understanding of the same is required for designing algorithms for strenuous tasks.
+
+The robot used an algorithm which uses the concept of Inverse-Kinematics for achieving the basic task of drawing. Hence the simulated robot (Picasso) can draw basic shapes like: circle, square, pentagon and complex figures like: cat, flower etc.
+
+Contributors  : [Ashwin V, Amrita University](https://github.com/ashwinn-v) , [Vishal Menon , Amrita University](https://github.com/Caster12) 
+
+
+
+
+
+## Robot Manipulator Control Example File
 
 ------------------------------------------------------------------------------------------
 
