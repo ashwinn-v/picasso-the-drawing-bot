@@ -1,5 +1,5 @@
 # Picasso the Drawing Robot: An Application of Inverse Kinematics 
-[![](https://img.shields.io/badge/MATLAB-Ver.2019-red)](https://pypi.org/project/fastism/) [![](https://img.shields.io/badge/C%2B%2B-Cpp-blue)](https://fastism.readthedocs.io/en/latest/?badge=latest)
+[![](https://img.shields.io/badge/MATLAB-Ver.2019-red)](https://www.mathworks.com/products/matlab.html) [![](https://img.shields.io/badge/C%2B%2B-Cpp-blue)](https://isocpp.org/)
 
 With the recent advancement in the field of robotics, Robots have become versatile in size and form and can be programmed to do the most mundane as well as the most sophisticated and specialised tasks. 
 
