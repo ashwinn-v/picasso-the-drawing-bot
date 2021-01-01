@@ -5,7 +5,7 @@ With the recent advancement in the field of robotics, Robots have become versati
 
 Inverse kinematics is one of the key techniques in automation and working of robots and deep understanding of the same is required for designing algorithms for strenuous tasks.
 
-The robot used an algorithm which uses the concept of Inverse-Kinematics for achieving the basic task of drawing. Hence the simulated robot (Picasso) can draw basic shapes like: circle, square, pentagon and complex figures like: cat, flower etc.
+The robot use algorithm which uses the concept of Inverse-Kinematics for achieving the basic task of drawing. Hence the simulated robot (Picasso) can draw basic shapes like: circle, square, pentagon and complex figures like: cat, flower etc.
 
 Contributors  : [Ashwin V](https://github.com/ashwinn-v) , [Vishal Menon](https://github.com/Caster12) 
 
