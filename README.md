@@ -1,4 +1,5 @@
-# Picasso the Drawing Robot: An Application of Inverse Kinematics
+# Picasso the Drawing Robot: An Application of Inverse Kinematics 
+[![](https://img.shields.io/pypi/v/fastism.svg)](https://pypi.org/project/fastism/) [![](https://readthedocs.org/projects/fastism/badge/?version=latest)](https://fastism.readthedocs.io/en/latest/?badge=latest)
 
 With the recent advancement in the field of robotics, Robots have become versatile in size and form and can be programmed to do the most mundane as well as the most sophisticated and specialised tasks. 
 
